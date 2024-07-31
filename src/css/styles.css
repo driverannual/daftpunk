@@ -1,6 +1,8 @@
-@font-face {
-    font-family: Inter, sans-serif;
-    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 body {
